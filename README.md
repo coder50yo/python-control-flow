@@ -43,7 +43,7 @@ control_flow/
    First, clone the repository to your local machine. Open your terminal and run the following command:
 
    ```sh
-   git clone https://github.com/your-username/control_flow.git
+   git clone https://github.com/coder50yo/python-control-flow.git
    ```
 
 2. **Navigate to the Project Directory**
